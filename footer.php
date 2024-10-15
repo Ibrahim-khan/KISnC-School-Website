@@ -1,105 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="utf-8">
-    <title>KISnC</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
-
-    <!--Icon bar-->
-    <link rel="icon" type="image/x-icon" href="../img/logo/logo.png">
-
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
-
-    <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Nunito&display=swap" rel="stylesheet">
-
-    <!-- Font Awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-
-    <!-- Flaticon Font -->
-    <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">
-
-    <!-- Libraries Stylesheet -->
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-
-    <!-- Customized Bootstrap Stylesheet -->
-    <link href="../css/style.css" rel="stylesheet">
-    <link href="css/notice.css" rel="stylesheet">
-</head>
-
-<body>
-    <!-- Navbar Start -->
-    <div class="container-fluid bg-light position-relative shadow">
-        <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0 px-lg-5">
-            <a href="#" class="navbar-brand font-weight-bold text-secondary">                
-                <img src="../img/logo/logo.png" alt="KISnC logo" srcset="" style="width: 60px; height:60px;">
-            </a>
-            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                <div class="navbar-nav font-weight-bold mx-auto py-0">
-                    <a href="/index.html" class="nav-item nav-link active">Home</a>
-                    <a href="#" class="nav-item nav-link">About</a>
-                    <a href="#" class="nav-item nav-link">Classes</a>
-                    <a href="#" class="nav-item nav-link">Teachers</a>
-                    <a href="#" class="nav-item nav-link">Gallery</a>
-                    <a href="#" class="nav-item nav-link">Notice</a>
-                    <a href="#" class="nav-item nav-link">Contact</a>
-                </div>
-                <a href="" class="btn btn-primary px-4">Join Class</a>
-            </div>
-        </nav>
-    </div>
-    <!-- Navbar End -->
-
-
-
-
-
-    <!--Notice Start-->
-    <div class="notice">
-        <div class="notice-article">
-            <div class="notice-header">
-                <h4>****  নিয়োগ বিজ্ঞপ্তি  ****</h4>
-            </div>
-            <div class="notice-form">
-                <p>বিস্তারিত জানতে ক্লিক করুন <a href="job-notice.html" target="_blank"> বিস্তারিত</a></p>
-            </div>
-        </div>
-    </div>
-    <!--Notice End-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Footer Start -->
-<div class="container-fluid bg-secondary text-white mt-5 py-5 px-sm-3 px-md-5">
+   <!-- Footer Start -->
+   <div class="container-fluid bg-secondary text-white mt-5 py-5 px-sm-3 px-md-5">
     <div class="row pt-5">
         <div class="col-lg-3 col-md-6 mb-5">
             <a href="#" class="navbar-brand font-weight-bold text-secondary">                
-                <img src="../img/logo/logo.png" alt="KISnC logo" srcset="" style="width: 60px; height:60px;">
+                <img src="./img/logo/logo.png" alt="KISnC logo" srcset="" style="width: 60px; height:60px;">
             </a>
             <p>
                 একজন শিক্ষার্থীর সুপ্ত এবং সম্ভাবনাময় ব্যক্তিসত্তার যথাযথ বিকাশ সাধন করতে আমরা দৃঢ় প্রতিজ্ঞাবদ্ধ
@@ -117,7 +22,7 @@
                 <h4 class="fa fa-map-marker-alt text-primary"></h4>
                 <div class="pl-3">
                     <h5 class="text-white">ঠিকানা</h5>
-                    <p>কঁচাকাঁটা,নাগেশ্বেরী, কুড়িগ্রাম</p>
+                    <p>কচাকাটা,নাগেশ্বেরী, কুড়িগ্রাম</p>
                 </div>
             </div>
             <div class="d-flex">

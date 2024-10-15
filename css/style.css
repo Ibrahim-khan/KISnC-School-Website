@@ -53,6 +53,56 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
+    /*External CSS Design Start*/
+
+/*Scroll bar start*/
+.ticker-wrapper {
+  background-color: #eedfea; /* Light background */
+  padding: 10px 0;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+}
+.notice-label {
+  background-color: #ffcc00;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 1rem;
+  color: #000;
+}
+.ticker {
+  display: flex;
+  animation: scroll 30s linear infinite;
+}
+.ticker-item {
+  padding: 0 20px;
+  white-space: nowrap;
+  font-weight: light;
+  font-size: 1rem;
+}
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+} /*Scroll bar end*/
+
+/*notice start*/
+.notice {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.notice-header {
+  margin-top: 200px;
+}
+
+/*notice end*/
+
+  /*External CSS Design end*/
+
 body {
   margin: 0;
   font-family: "Nunito", sans-serif;
